@@ -1,8 +1,24 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: LLC notes
+description: Visual study notes with flow diagrams and brief explanation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# URL setup
+url: "https://d33pto3.github.io"
+baseurl: "/llc-notes"
 
+# Navigation order
+nav_sort: case_insensitive
+
+# Enable search
+search_order: true
+
+# Optional: color scheme
+color_scheme: dark
+
+favicon: /assets/images/favicons/favicon.ico
+
+# Footer customization
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on Github": "https://github.com/d33pto3/llc-notes"
+  "Template Repository":
+    - //github.com/d33pto3/llc-notes
